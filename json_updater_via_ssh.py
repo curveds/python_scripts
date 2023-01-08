@@ -4,7 +4,6 @@ import os
 import re
 import json
 import logging
-import unittest
 import paramiko, socket
 from collections import namedtuple
 
